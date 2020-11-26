@@ -10,4 +10,5 @@ public class FirstGitTest {
         i+=10;
         System.out.println(i);
     }
+//    main
 }
