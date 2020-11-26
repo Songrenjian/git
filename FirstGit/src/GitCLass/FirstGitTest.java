@@ -4,4 +4,9 @@ public class FirstGitTest {
     public static void main(String[] args) {
         System.out.println("wfw");
     }
+    public void test()
+    {
+        int i=0;
+        i+=10;
+    }
 }
